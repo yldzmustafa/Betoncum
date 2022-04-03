@@ -1,0 +1,158 @@
+C:\Users\mertc\Desktop\İnşaat Sepeti Proje\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.exe.config
+C:\Users\mertc\Desktop\İnşaat Sepeti Proje\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.exe
+C:\Users\mertc\Desktop\İnşaat Sepeti Proje\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.pdb
+C:\Users\mertc\Desktop\İnşaat Sepeti Proje\insaatSepeti\insaatSepeti\bin\Debug\MaterialSkin.dll
+C:\Users\mertc\Desktop\İnşaat Sepeti Proje\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.AssemblyReference.cache
+C:\Users\mertc\Desktop\İnşaat Sepeti Proje\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.SuggestedBindingRedirects.cache
+C:\Users\mertc\Desktop\İnşaat Sepeti Proje\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.Form1.resources
+C:\Users\mertc\Desktop\İnşaat Sepeti Proje\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.Properties.Resources.resources
+C:\Users\mertc\Desktop\İnşaat Sepeti Proje\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.GenerateResource.cache
+C:\Users\mertc\Desktop\İnşaat Sepeti Proje\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.CoreCompileInputs.cache
+C:\Users\mertc\Desktop\İnşaat Sepeti Proje\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.CopyComplete
+C:\Users\mertc\Desktop\İnşaat Sepeti Proje\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.exe
+C:\Users\mertc\Desktop\İnşaat Sepeti Proje\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.pdb
+C:\Users\mertc\Desktop\İnşaat Sepeti Proje\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.LoginFormu.resources
+C:\Users\mertc\Desktop\İnşaat Sepeti Proje\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.LoginEkranı.resources
+C:\Users\mertc\Desktop\Yeni klasör (3)\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.exe.config
+C:\Users\mertc\Desktop\Yeni klasör (3)\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.exe
+C:\Users\mertc\Desktop\Yeni klasör (3)\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.pdb
+C:\Users\mertc\Desktop\Yeni klasör (3)\insaatSepeti\insaatSepeti\bin\Debug\MaterialSkin.dll
+C:\Users\mertc\Desktop\Yeni klasör (3)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.AssemblyReference.cache
+C:\Users\mertc\Desktop\Yeni klasör (3)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.SuggestedBindingRedirects.cache
+C:\Users\mertc\Desktop\Yeni klasör (3)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.Form1.resources
+C:\Users\mertc\Desktop\Yeni klasör (3)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.LoginEkranı.resources
+C:\Users\mertc\Desktop\Yeni klasör (3)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.LoginFormu.resources
+C:\Users\mertc\Desktop\Yeni klasör (3)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.Properties.Resources.resources
+C:\Users\mertc\Desktop\Yeni klasör (3)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.GenerateResource.cache
+C:\Users\mertc\Desktop\Yeni klasör (3)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.CoreCompileInputs.cache
+C:\Users\mertc\Desktop\Yeni klasör (3)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.CopyComplete
+C:\Users\mertc\Desktop\Yeni klasör (3)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.exe
+C:\Users\mertc\Desktop\Yeni klasör (3)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.pdb
+C:\Users\mertc\Desktop\Yeni klasör (4)\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.exe.config
+C:\Users\mertc\Desktop\Yeni klasör (4)\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.exe
+C:\Users\mertc\Desktop\Yeni klasör (4)\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.pdb
+C:\Users\mertc\Desktop\Yeni klasör (4)\insaatSepeti\insaatSepeti\bin\Debug\MaterialSkin.dll
+C:\Users\mertc\Desktop\Yeni klasör (4)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.AssemblyReference.cache
+C:\Users\mertc\Desktop\Yeni klasör (4)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.SuggestedBindingRedirects.cache
+C:\Users\mertc\Desktop\Yeni klasör (4)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.Form1.resources
+C:\Users\mertc\Desktop\Yeni klasör (4)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.LoginEkranı.resources
+C:\Users\mertc\Desktop\Yeni klasör (4)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.LoginFormu.resources
+C:\Users\mertc\Desktop\Yeni klasör (4)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.Properties.Resources.resources
+C:\Users\mertc\Desktop\Yeni klasör (4)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.GenerateResource.cache
+C:\Users\mertc\Desktop\Yeni klasör (4)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.CoreCompileInputs.cache
+C:\Users\mertc\Desktop\Yeni klasör (4)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.CopyComplete
+C:\Users\mertc\Desktop\Yeni klasör (4)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.exe
+C:\Users\mertc\Desktop\Yeni klasör (4)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.pdb
+C:\Users\mertc\Desktop\Yeni klasör (4)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.FirmaUyelik.resources
+C:\Users\mertc\Desktop\Yeni klasör (4)\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.MusteriUyelik.resources
+C:\Users\mertc\Desktop\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.exe.config
+C:\Users\mertc\Desktop\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.exe
+C:\Users\mertc\Desktop\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.pdb
+C:\Users\mertc\Desktop\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\MaterialSkin.dll
+C:\Users\mertc\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.AssemblyReference.cache
+C:\Users\mertc\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.SuggestedBindingRedirects.cache
+C:\Users\mertc\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.FirmaUyelik.resources
+C:\Users\mertc\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.Form1.resources
+C:\Users\mertc\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.LoginEkranı.resources
+C:\Users\mertc\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.MusteriUyelik.resources
+C:\Users\mertc\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.Properties.Resources.resources
+C:\Users\mertc\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.GenerateResource.cache
+C:\Users\mertc\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.CoreCompileInputs.cache
+C:\Users\mertc\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.CopyComplete
+C:\Users\mertc\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.exe
+C:\Users\mertc\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.pdb
+C:\Users\mertc\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.FirmaPanel.resources
+C:\Users\Admin\Desktop\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.exe.config
+C:\Users\Admin\Desktop\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.exe
+C:\Users\Admin\Desktop\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.pdb
+C:\Users\Admin\Desktop\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.FirmaPanel.resources
+C:\Users\Admin\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.FirmaUyelik.resources
+C:\Users\Admin\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.Form1.resources
+C:\Users\Admin\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.LoginEkranı.resources
+C:\Users\Admin\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.MusteriUyelik.resources
+C:\Users\Admin\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.Properties.Resources.resources
+C:\Users\Admin\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.CopyComplete
+C:\Users\Admin\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.exe
+C:\Users\Admin\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.pdb
+C:\Users\Admin\Desktop\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.SuggestedBindingRedirects.cache
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.exe.config
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.exe
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.pdb
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\MaterialSkin.dll
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.AssemblyReference.cache
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.SuggestedBindingRedirects.cache
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.FirmaPanel.resources
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.FirmaUyelik.resources
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.Form1.resources
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.LoginEkranı.resources
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.MusteriUyelik.resources
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.Properties.Resources.resources
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.GenerateResource.cache
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.CoreCompileInputs.cache
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.CopyComplete
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.exe
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.pdb
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\Dapper.dll
+C:\Users\mertc\Desktop\yeni\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\Dapper.xml
+C:\Users\Admin\Desktop\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.exe.config
+C:\Users\Admin\Desktop\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.exe
+C:\Users\Admin\Desktop\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.pdb
+C:\Users\Admin\Desktop\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\Dapper.dll
+C:\Users\Admin\Desktop\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\Desktop\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\Dapper.xml
+C:\Users\Admin\Desktop\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.FirmaPanel.resources
+C:\Users\Admin\Desktop\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.FirmaUyelik.resources
+C:\Users\Admin\Desktop\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.Form1.resources
+C:\Users\Admin\Desktop\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.LoginEkranı.resources
+C:\Users\Admin\Desktop\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.MusteriUyelik.resources
+C:\Users\Admin\Desktop\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.Properties.Resources.resources
+C:\Users\Admin\Desktop\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.CopyComplete
+C:\Users\Admin\Desktop\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.exe
+C:\Users\Admin\Desktop\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.pdb
+C:\PROJE\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.AssemblyReference.cache
+C:\PROJE\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.FirmaPanel.resources
+C:\PROJE\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.FirmaUyelik.resources
+C:\PROJE\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.Form1.resources
+C:\PROJE\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.LoginEkranı.resources
+C:\PROJE\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.MusteriUyelik.resources
+C:\PROJE\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.Properties.Resources.resources
+C:\PROJE\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.GenerateResource.cache
+C:\PROJE\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.CoreCompileInputs.cache
+C:\PROJE\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.exe
+C:\PROJE\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.pdb
+C:\PROJE\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.exe.config
+C:\PROJE\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.exe
+C:\PROJE\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\insaatSepeti.pdb
+C:\PROJE\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\Dapper.dll
+C:\PROJE\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\MaterialSkin.dll
+C:\PROJE\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\Dapper.xml
+C:\PROJE\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.CopyComplete
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\Dapper.dll
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\Dapper.xml
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.FirmaPanel.resources
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.FirmaUyelik.resources
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.Form1.resources
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.LoginEkranı.resources
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.MusteriUyelik.resources
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.Properties.Resources.resources
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\insaatSepeti.csproj.CopyComplete
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\Betoncum.exe.config
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\Betoncum.exe.manifest
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\Betoncum.application
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\Betoncum.exe
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\bin\Debug\Betoncum.pdb
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\Betoncum.exe.manifest
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\Betoncum.application
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\Betoncum.exe
+C:\Users\Admin\Desktop\18.03.2022\Yeni klasör\proje_son_hali\proje son hali\insaatSepeti\insaatSepeti\obj\Debug\Betoncum.pdb
